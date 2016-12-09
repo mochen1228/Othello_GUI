@@ -1,4 +1,3 @@
-# Chen Mo 16203697
 # This module is the game window module
 import tkinter
 import tkinter.font

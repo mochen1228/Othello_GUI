@@ -1,4 +1,3 @@
-# Chen Mo 16203697
 # This module is the main loop module
 import Othello_Dataentry
 import tkinter
@@ -16,5 +15,3 @@ if __name__ == '__main__':
     root.protocol('WM_DELETE_WINDOW', exit_game)
     Othello_Dataentry.DataEntry(root)
     root.mainloop()
-    # this happens next
-    # nvm

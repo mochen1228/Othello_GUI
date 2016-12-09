@@ -1,4 +1,3 @@
-# Chen Mo 16203697
 # This module is the game data entry window module
 import tkinter
 from tkinter import N, E, S, W

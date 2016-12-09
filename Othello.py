@@ -1,5 +1,4 @@
 # This is the FULL version of the Othello game
-# Chen Mo 16203697
 
 import Othello_game_old  # Game logic core module
 
